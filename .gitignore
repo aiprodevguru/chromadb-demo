@@ -1,0 +1,4 @@
+venv/
+chroma_db/
+config.bat
+node_modules
